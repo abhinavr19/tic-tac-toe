@@ -168,17 +168,6 @@ def play_game():
 
 
     
-
+#call function
 play_game() 
 
-
-#board
-#display
-#play
-#handle turn
-#check win
-    #check row
-    #check col
-    #check diagnol
-#check tie
-#flip player
